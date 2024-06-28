@@ -6,4 +6,4 @@
 **Proje Kategorisi:** Örnek: Siber Güvenlik
 **Referans Uygulama:** [splunk](splunk)
 **Uygulama Adresi:** [https://owasp.org/](https://owasp.org/)
-[backend.com](backend.com)
+[backend.com](backend)
