@@ -1,3 +1,7 @@
+Docker: docker kullanılmadı.
+Rest API : kullanılmadı.
+
+
 1 [giriş yap](girisyap.md)  
 
 2 [kayıt ol](kayitol.md) 
