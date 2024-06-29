@@ -14,4 +14,4 @@ Rest API : kullanılmadı.
 
 6 [yazıya yorum yapma](yaziyayorumyapma.md)
 
-**Uygulama Adresi:** https://siberguvenliksite.000webhostapp.com/giris.html
+**Uygulama Adresi:** http://cybersecurity12.xyz.preview.services/giris.html
