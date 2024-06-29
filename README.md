@@ -10,7 +10,7 @@
 
 **Referans Uygulama Adresi:** [https://owasp.org/](https://owasp.org/)
 
-**Geliştirdiğim Uygulama Adresi:** https://siberguvenliksite.000webhostapp.com/giris.html
+**Geliştirdiğim Uygulama Adresi:** http://cybersecurity12.xyz.preview.services/giris.html
 
 **Geliştirici:** Kübra Demir
 
